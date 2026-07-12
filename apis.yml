@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.smarty.com/products/apis/us-extract-api
 common:
+  - type: DomainSecurity
+    url: security/us-extract-domain-security.yml
   - type: Website
     url: https://www.smarty.com/products/apis/us-extract-api
   - type: PublicAPIsListing
