@@ -39,7 +39,6 @@ apis:
   - name: US Extract
     description: "Extract postal addresses from any text including emails"
     humanURL: https://www.smarty.com/products/apis/us-extract-api
-    baseURL: https://www.smarty.com/products/apis/us-extract-api
     tags:
       - Data Validation
     properties:
